@@ -1,0 +1,31 @@
+* {
+    font-family: Arial;
+    font-weight: 100;
+    color: #101010;
+}
+
+h3 {
+    border-bottom: solid 1px black;
+}
+
+code {
+    font-size: 1.0em;
+    font-family: monospace;
+    padding: 0;
+    margin: 0;
+    color: #C8C8C8;
+}
+
+td input, textarea {
+    width: 300px;
+}
+
+#code-wrapper {
+    background-color: #1E1E1E;
+    padding: 10px;
+}
+
+#centered_shit {
+    width: 500px;
+    margin: auto auto;
+}
