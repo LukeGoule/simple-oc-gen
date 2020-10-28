@@ -5,5 +5,5 @@
 
 - A webserver that supports PHP.
 
-![](https://imgur.com/oYLzwSr)
-![](https://imgur.com/7LCeYoL)
+![](https://i.imgur.com/Lp5Irwr.png)
+![](https://i.imgur.com/7LCeYoL.png)
