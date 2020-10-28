@@ -4,3 +4,6 @@
 ## Requirements
 
 - A webserver that supports PHP.
+
+![](https://imgur.com/oYLzwSr)
+![](https://imgur.com/7LCeYoL)
